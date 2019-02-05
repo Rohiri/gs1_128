@@ -16,9 +16,9 @@
       "homepage": "http://ayeo.pl"
     }
   ],
-  "minimum-stability": "dev",
+  "minimum-stability": "1.0.1",
   "require": {
-    "php": ">=5.4.0",
+    "php": ">=7.0",
     "ext-gd": "*"
   },
   "require-dev": {
