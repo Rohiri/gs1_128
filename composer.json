@@ -11,9 +11,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "ayeo",
-      "email": "me@ayeo.pl",
-      "homepage": "http://ayeo.pl"
+      "name": "sisoft",
+      "email": "william@sisoft.com.co",
     }
   ],
   "require": {
